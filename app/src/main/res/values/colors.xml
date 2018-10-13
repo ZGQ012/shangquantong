@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA70D</color>
+    <color name="colorPrimaryDark">#FFA70D</color>
+    <color name="colorAccent">#FFA70D</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--zxing-->
+    <color name="contents_text">#000000</color>
+    <color name="encode_view">#FFFFFF</color>
+    <color name="possible_result_points">#FFBD21</color>
+    <color name="result_minor_text">#C0C0C0</color>
+    <color name="result_points">#99CC00</color>
+    <color name="result_text">#FFFFFF</color>
+    <color name="result_view">#000000</color>
+    <color name="status_text">#FFFFFF</color>
+    <color name="viewfinder_mask">#50000000</color>
+    <color name="react">#FFFFFF</color>
+    <color name="scanLineColor">#FFFFFF</color>
+</resources>

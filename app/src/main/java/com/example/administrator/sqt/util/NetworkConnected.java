@@ -10,7 +10,7 @@ import android.net.NetworkInfo;
 
 public class NetworkConnected {
     /**
-     * 网络状态
+     * 查看当前网络状态
      *
      * @param context
      * @return
